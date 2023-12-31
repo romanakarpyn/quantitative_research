@@ -1,1 +1,1 @@
-# quantitative_research_project
+# Quantitative research job simulation project
