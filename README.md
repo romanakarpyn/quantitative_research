@@ -1,4 +1,12 @@
 # Quantitative research job simulation project
+The project involves:
+* Investigate and analyze price data, time series forecasting
+* Price a commodity storage contract
+* Credit risk analysis (given borrower's feature estimate the probability of default)
+* Bucket FICO scores
+
+***
+
 * Forecast Natural Gas Prices with **Auto ARIMA**
   
 RMSE: **0.22**
