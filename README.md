@@ -4,6 +4,10 @@ The project involves:
 * Price a commodity storage contract
 * Credit risk analysis (given borrower's feature estimate the probability of default)
 * Bucket FICO scores
+***
+
+Certificate:
+https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/bWqaecPDbYAwSDqJy_JPMorgan%20Chase%20&%20Co._oQFEDfmwQsfCjYwdK_1703022371832_completion_certificate.pdf
 
 ***
 
